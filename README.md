@@ -17,5 +17,5 @@ Passionate in building AI-powered applications and exploring how machine learnin
 
 Whether it's building side projects or joining hackathons, I'm always open to collaborating, creating, and solving problems with fellow builders!
 
-**Feel free to reach out!** I'm always up for a conversation and exploring what we can build together :)** 
+**Feel free to reach out!** I'm always up for a conversation and exploring what we can build together :)
 ---
